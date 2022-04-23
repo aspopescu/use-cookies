@@ -1,6 +1,7 @@
 # use-cookies
 Learning javascript using the videos published by Bro Code on Youtube:
-\n WTF is a JavaScript cookie? 🍪 -> https://www.youtube.com/watch?v=i7oL_K_FmM8
+
+WTF is a JavaScript cookie? 🍪 -> https://www.youtube.com/watch?v=i7oL_K_FmM8
 
 
 
