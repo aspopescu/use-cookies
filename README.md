@@ -1,2 +1,2 @@
 # use-cookies
-Learning how to create a stopwatch in javascript using the videos published by Bro Code
+Learning javascript using the videos published by Bro Code https://www.youtube.com/watch?v=i7oL_K_FmM8
